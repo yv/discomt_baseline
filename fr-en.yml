@@ -1,0 +1,12 @@
+all_fillers:
+    - [he]
+    - [she]
+    - [it]
+    - [they]
+    - [this]
+    - [these]
+    - [those]
+    - [there]
+other_fillers: [[them], [let], [me], [to], [like], [would], [as], [will], [by], [themselves], [may]]
+lm: mono+para.5.en.lemma.trie.kenlm
+removepos: true

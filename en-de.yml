@@ -1,0 +1,6 @@
+all_fillers: [[er], [sie], [es], [man]]
+other_fillers: [[diese], [ihnen], [ihre], [ihrer],
+    [sondern], [den], [so], [werden], [auch],
+    [beide], [dazu], [dabei]]
+lm: mono+para.5.de.lemma.trie.kenlm
+removepos: true
