@@ -171,7 +171,7 @@ def main(argv=None):
                 continue
             elif mode != 'scores':
                 continue
-        classes_str, target, text_src, text, text_align = l.rstrip().split(
+        classes_str, target, text_src, text, text_align = l.rstrip('\n').split(
             '\t')
         if mode == 'scores':
             print '%d\tTEXT\t%s\t%s\t%s' % (i, text_src, text, text_align)
