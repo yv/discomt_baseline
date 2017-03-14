@@ -1,2 +1,6 @@
+Baseline script:
 Yannick Versley
 Sara Stymne
+
+Scorer:
+Preslav Nakov
